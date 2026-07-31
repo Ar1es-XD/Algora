@@ -1,0 +1,3 @@
+# Map TypeScript files to JavaScript to remove TypeScript from profile stats
+*.ts linguist-language=JavaScript
+*.tsx linguist-language=JavaScript
